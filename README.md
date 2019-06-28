@@ -17,4 +17,4 @@ A sample notebook that explains how to use the process execution data of Busines
 The notebook found in this project are licensed under the [Apache License 2.0](LICENSE).
 
 # Notice
-© Copyright IBM Corporation 2019.
+© Copyright IBM Corporation 2019. 
